@@ -3,9 +3,10 @@ citHeader("To cite the package 'bmd' in publications use:")
 citEntry(entry="Unpublished",
          title = "Benchmark dose analysis in R",
          author = personList(as.person("C. Ritz")),
-         year = 2008,
+         year = 2009,
+         note = "Under preparation",
          textVersion =
-         paste("Ritz, C. (2008)",
+         paste("Ritz, C. (2010)",
                "Benchmark dose analysis in R",
-               "Manuscript")
+               "Under preparation")
 )
